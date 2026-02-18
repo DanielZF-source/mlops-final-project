@@ -24,7 +24,7 @@ El objetivo es predecir la probabilidad de que un cliente abandone una compañí
 ---
 
 ## 3. Estructura del Repositorio (Fase B)
-Siguiendo las mejores prácticas, el proyecto se organiza de la siguiente manera:
+Siguiendo las mejores prácticas, el proyecto se organiza de la siguiente manera
 
 ```text
 ├── data/
